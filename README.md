@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  I build practical software at the intersection of <strong>web development</strong>, <strong>automation</strong>, and <strong>data workflows</strong> — with a focus on real business utility over technical demos.
-</p>
-
-<p align="center">
   <a href="https://github.com/LennardGeissler?tab=repositories">
     <img src="https://img.shields.io/badge/Repositories-View%20Projects-black?style=for-the-badge&logo=github" alt="Repositories" />
   </a>
