@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
   <title id="title">Lennard Geißler — building at the intersection of security and AI</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#ffffff"/>
-      <stop offset="1" stop-color="#f3f5f9"/>
-    </linearGradient>
     <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="396" y1="0" x2="560" y2="0">
       <stop offset="0" stop-color="#0d9488"/>
       <stop offset="1" stop-color="#7c3aed"/>
@@ -35,7 +31,6 @@
   </style>
 
   <g clip-path="url(#card)">
-    <rect width="1200" height="300" fill="url(#bg)"/>
     <g mask="url(#hexmask)" opacity="0.14">
       <g class="hex scroll">
 <text x="640" y="18">42 4c 42 4b 25 30 bb 1d 6d 13 2c de d6 23 7b 2e d9 1e 3f 72 1f cb 19 71 17 44</text>

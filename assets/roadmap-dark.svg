@@ -22,7 +22,7 @@
     @media (prefers-reduced-motion: reduce) { .flow, .ring { animation: none; } .ring { opacity: 0; } }
   </style>
 
-  <rect x="1" y="1" width="1198" height="213" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="213" rx="16" fill="none" stroke="#30363d" stroke-width="2"/>
 
   <line x1="80" y1="48" x2="370" y2="48" stroke="#30363d" stroke-width="1.5"/>
   <text class="cap" x="400" y="53" text-anchor="middle" fill="#8b949e">NOW</text>
@@ -31,16 +31,15 @@
   <text class="cap" x="1000" y="53" text-anchor="middle" fill="#a78bfa">FROM OCT 2026</text>
   <line x1="1100" y1="48" x2="1180" y2="48" stroke="#30363d" stroke-width="1.5"/>
 
-  <line x1="200" y1="100" x2="600" y2="100" stroke="url(#now)" stroke-width="2.5"/>
-  <line class="flow" x1="600" y1="100" x2="976" y2="100" stroke="#a78bfa" stroke-width="2.5"/>
+  <line x1="215" y1="100" x2="585" y2="100" stroke="url(#now)" stroke-width="2.5"/>
+  <line class="flow" x1="615" y1="100" x2="970" y2="100" stroke="#a78bfa" stroke-width="2.5"/>
 
-  <circle cx="200" cy="100" r="15" fill="#0d1117" stroke="#2dd4bf" stroke-width="2"/>
+  <circle cx="200" cy="100" r="15" fill="none" stroke="#2dd4bf" stroke-width="2"/>
   <circle cx="200" cy="100" r="6" fill="#2dd4bf"/>
-  <circle cx="600" cy="100" r="15" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+  <circle cx="600" cy="100" r="15" fill="none" stroke="#a78bfa" stroke-width="2"/>
   <circle cx="600" cy="100" r="6" fill="#a78bfa"/>
 
-  <circle class="ring" cx="1000" cy="100" r="24" fill="none" stroke="#a78bfa" stroke-width="1.5"/>
-  <circle cx="1000" cy="100" r="25" fill="#0d1117"/>
+  <circle class="ring" cx="1000" cy="100" r="26" fill="none" stroke="#a78bfa" stroke-width="1.5"/>
   <circle cx="991" cy="100" r="14" fill="#2dd4bf" fill-opacity="0.12" stroke="#2dd4bf" stroke-width="2"/>
   <circle cx="1009" cy="100" r="14" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-width="2"/>
   <circle cx="1009" cy="100" r="14" fill="url(#lens)" fill-opacity="0.55" clip-path="url(#left)"/>

@@ -19,12 +19,12 @@
     @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
   </style>
 
-  <rect x="1" y="1" width="1198" height="248" rx="16" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="248" rx="16" fill="none" stroke="#30363d" stroke-width="2"/>
 
   <rect x="28" y="28" width="672" height="194" rx="14" fill="none" stroke="#2dd4bf" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="5 6"/>
   <text class="cap" x="52" y="56" fill="#2dd4bf">YOUR TRUST BOUNDARY</text>
 
-  <rect x="56" y="80" width="230" height="96" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="56" y="80" width="230" height="96" rx="12" fill="#e6edf3" fill-opacity="0.04" stroke="#30363d" stroke-width="1.5"/>
   <text class="title" x="171" y="121" text-anchor="middle">S3 client</text>
   <text class="sub" x="171" y="148" text-anchor="middle">aws · boto3 · rclone · mc</text>
 
@@ -40,7 +40,7 @@
   <text class="edge" x="800" y="114" text-anchor="middle" fill="#2dd4bf">ciphertext only</text>
   <text class="hex" x="804" y="152" text-anchor="middle" fill-opacity="0.8">42 4c 42 4b 9f e1 …</text>
 
-  <rect x="900" y="80" width="260" height="96" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="900" y="80" width="260" height="96" rx="12" fill="#e6edf3" fill-opacity="0.04" stroke="#30363d" stroke-width="1.5"/>
   <text class="title" x="1030" y="121" text-anchor="middle">Storage provider</text>
   <text class="sub" x="1030" y="148" text-anchor="middle">AWS S3 · MinIO · Garage</text>
   <text class="sub" x="1030" y="204" text-anchor="middle">never sees plaintext or keys</text>
